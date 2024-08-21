@@ -3,7 +3,10 @@ interface Page  {
     likes: number;
     accounts: string[];
     status: 'open'| 'close';
-    details?: {};
+  details?: {
+      createAt: {},
+      updateAt: {},
+    };
 }
 
 
