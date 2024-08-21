@@ -8,3 +8,5 @@ let value: switcher;
 value = "enable";
 
 console.log(value);
+
+export { }

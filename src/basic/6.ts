@@ -25,3 +25,5 @@ const poly = {
 
 console.log(mango);
 console.log(poly);
+
+export { }
